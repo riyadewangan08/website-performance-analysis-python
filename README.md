@@ -8,7 +8,7 @@ This Python project performs a detailed analysis of website traffic data to unde
 
 Using Pandas and Matplotlib, the project aggregates and visualizes data to provide actionable insights for improving website performance, optimizing marketing channels, and enhancing user engagement.
 
-## 🔧 Tools & Technologies Used
+## 🔧 Tools & libraries Used
 - Jupyter Notebook
 -  Python
 - Pandas
