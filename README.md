@@ -113,7 +113,7 @@ Referral and Direct channels have steady traffic throughout the day, peaking sli
 Unassigned and Organic Video channels have minimal impact across all hours.
 
 Recommendation: Schedule key campaigns and posts between 11 AM – 4 PM for maximum visibility and engagement.
-
+![Image](https://github.com/user-attachments/assets/b7d73b8c-367e-48a2-bbd7-34c2a65df6d3)
 
 ## 7) Is there any correlation between high traffic (sessions) and high engagement rate over time?
 ### 📈 Correlation Between Sessions & Engagement Rate – Key Insights
