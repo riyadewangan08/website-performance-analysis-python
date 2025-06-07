@@ -15,19 +15,19 @@ Using Pandas and Matplotlib, the project aggregates and visualizes data to provi
 ## 📂 Dataset Info
 The dataset used in this project contains detailed website traffic logs, capturing user interactions on an hourly basis. It includes the following key columns:
 
-DateHour: Timestamp combining date and hour, representing the time of website activity.
+- DateHour: Timestamp combining date and hour, representing the time of website activity.
 
-sessions: Number of sessions recorded in that hour. A session represents a single visit by a user.
+- sessions: Number of sessions recorded in that hour. A session represents a single visit by a user.
 
-users: Count of unique users who visited the website during that hour.
+- users: Count of unique users who visited the website during that hour.
 
-channel: Marketing or traffic channel through which users arrived (e.g., Organic Search, Paid Search, Direct, Referral, Social).
+- channel: Marketing or traffic channel through which users arrived (e.g., Organic Search, Paid Search, Direct, Referral, Social).
 
-engagement_time: Average time users spent engaged during the session (in seconds or minutes).
+- engagement_time: Average time users spent engaged during the session (in seconds or minutes).
 
-engagement_rate: Percentage of engaged sessions out of total sessions, indicating user interest level.
+- engagement_rate: Percentage of engaged sessions out of total sessions, indicating user interest level.
 
-session_type: Classification of sessions into engaged and non-engaged categories.
+- session_type: Classification of sessions into engaged and non-engaged categories.
 
 This structured data enables detailed analysis of traffic trends, user behavior, and channel effectiveness across different times of day and days of the week.
 
