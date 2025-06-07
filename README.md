@@ -96,7 +96,7 @@ Direct and Organic Search have more non-engaged users – needs improvement.
 Unassigned traffic is minimal and mostly unengaged.
 
 Organic Video shows no data – could be inactive or untracked
-
+![Image](https://github.com/user-attachments/assets/6891bbff-464c-451b-8a8a-6ccc8def2795)
 
 ## 6) At what hours of the day does each channel drive the most traffic?
 ### 🕒 Traffic by Hour and Channel – Key Insights
