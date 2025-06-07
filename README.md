@@ -70,7 +70,7 @@ Direct and Organic Search had lower engagement, suggesting less user interaction
 
 Focus on video content can help boost engagement across other channels.
 
-
+![Image](https://github.com/user-attachments/assets/2779ca8b-a00a-4b0e-97d6-8fc89433e570)
 
 ## 4) How does engagement rate vary across different traffic channels?
 ### 🔍 Analysis
