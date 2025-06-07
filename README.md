@@ -48,7 +48,7 @@ This structured data enables detailed analysis of traffic trends, user behavior,
 
 -Post-spike, sessions and users show a slightly stable upward trend
  
-
+![session and user over time]()
 
   
 
