@@ -128,21 +128,22 @@ Conclusion: High traffic does not guarantee high engagement. Focus on content qu
 
 
 # 📋 Summary / Overall Insights
-Organic Social is the top channel for users and engagement.
+- Organic Social is the top channel for users and engagement.
 
-Video content drives the highest user engagement time.
+- Video content drives the highest user engagement time.
 
-Website traffic peaks between 11 AM and 6 PM.
+- Website traffic peaks between 11 AM and 6 PM.
 
-High session counts don’t guarantee high engagement rates.
+- High session counts don’t guarantee high engagement rates.
 
-Referral and Organic Search channels perform well in engagement.
+- Referral and Organic Search channels perform well in engagement.
 
-Direct and Email channels need improvement.
+- Direct and Email channels need improvement.
 
-Focus on quality content and optimizing weak channels to boost engagement
+- Focus on quality content and optimizing weak channels to boost engagement
 
 ## 📬 Contact
 Name: Riya Dewangan
+
 Email: riyadew77@gmail.com
 
