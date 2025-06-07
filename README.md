@@ -10,4 +10,4 @@ Using Pandas and Matplotlib, the project aggregates and visualizes data to provi
 -  Python
 - Pandas
 - Matplotlib
--seaborn 
+- seaborn 
