@@ -83,7 +83,7 @@ Unassigned and Organic Video have low and inconsistent engagement rates.
 Email has a broad range, suggesting mixed user behavior.
 
 Focus on Referral & Organic Search for scalable, high-engagement traffic
-
+![Image](https://github.com/user-attachments/assets/387d62d3-2fb2-4937-87c6-f0e57dcf191d)
 
 ## 5) Which channels are driving more engaged sessions compared to non-engaged ones, and what strategies can improve engagement in underperforming channels?
 ### ✅ Engaged vs Non-Engaged Sessions – Key Insights¶
