@@ -2,7 +2,7 @@
 📊 Website Performance Analysis – 
 
 
-![website performance analysis project]([images/graph1.png](https://github.com/riyadewangan08/website_performance_analysis_by_python/blob/5f4c8c08724cb1e30eb10666c3e9d7c556b2bf1c/website%20analysis%20banner.png)
+![website performance analysis project(https://github.com/riyadewangan08/website_performance_analysis_by_python/blob/5f4c8c08724cb1e30eb10666c3e9d7c556b2bf1c/website%20analysis%20banner.png)
 
 ## 📁 Project Overview
 This Python project performs a detailed analysis of website traffic data to understand user behavior, engagement, and session trends over time. It addresses seven key questions about traffic sources, user engagement, peak hours, and correlations between sessions and engagement.
