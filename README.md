@@ -58,7 +58,7 @@ This structured data enables detailed analysis of traffic trends, user behavior,
 -focus on improving low-performing channels
 
 -search and direct works but can be improved
-
+![Image](https://github.com/user-attachments/assets/b9b95f53-a4a3-4842-96df-37a0ef64632f)
 
 ## 3) Which channel has the highest average engagement time, and what does that tell us about user behavior and content effectiveness?
 ### 🔍 Analysis
