@@ -48,7 +48,7 @@ This structured data enables detailed analysis of traffic trends, user behavior,
 
 -Post-spike, sessions and users show a slightly stable upward trend
  
-![session and user over time]()
+![session and user over time](https://github.com/riyadewangan08/website_performance_analysis_by_python/blob/0e694b15f7bfc03d3a0edd7560f0b86e6c1e55b9/websites_analysis%20_all_images.zip)
 
   
 
