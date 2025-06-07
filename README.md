@@ -34,3 +34,22 @@ The dataset used in this project contains detailed website traffic logs, capturi
 
 This structured data enables detailed analysis of traffic trends, user behavior, and channel effectiveness across different times of day and days of the week.
 
+
+# ❓ Questions Solved
+
+## 1) What patterns or trends can you observe in website sessions and users over time?
+
+### 🔍 Analysis
+-Sessions are consistently higher than users, showing repeat visits.
+
+-Noticeable spikes on April 15–19, likely due to a campaign or event.
+
+-Traffic follows a daily pattern, with regular peaks and drops.
+
+-Post-spike, sessions and users show a slightly stable upward trend
+ 
+
+
+  
+
+
