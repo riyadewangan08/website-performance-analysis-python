@@ -38,6 +38,7 @@ This structured data enables detailed analysis of traffic trends, user behavior,
 # ❓ Questions Solved
 
 ## 1) What patterns or trends can you observe in website sessions and users over time?
+![Image](https://github.com/user-attachments/assets/d5975f64-8e79-45f5-b474-01bf84b1b92d)
 
 ### 🔍 Analysis
 -Sessions are consistently higher than users, showing repeat visits.
@@ -47,9 +48,9 @@ This structured data enables detailed analysis of traffic trends, user behavior,
 -Traffic follows a daily pattern, with regular peaks and drops.
 
 -Post-spike, sessions and users show a slightly stable upward trend
- ![Image](https://github.com/user-attachments/assets/d5975f64-8e79-45f5-b474-01bf84b1b92d)
 
  ## 2)Which marketing channel brought the highest number of users to the website and how can we use this insight to improve traffic from other sources?
+![Image](https://github.com/user-attachments/assets/b9b95f53-a4a3-4842-96df-37a0ef64632f)
 ### 🔍 Analysis
 -organic social brought the most users -strong performance
 
@@ -58,9 +59,9 @@ This structured data enables detailed analysis of traffic trends, user behavior,
 -focus on improving low-performing channels
 
 -search and direct works but can be improved
-![Image](https://github.com/user-attachments/assets/b9b95f53-a4a3-4842-96df-37a0ef64632f)
 
 ## 3) Which channel has the highest average engagement time, and what does that tell us about user behavior and content effectiveness?
+![Image](https://github.com/user-attachments/assets/2779ca8b-a00a-4b0e-97d6-8fc89433e570)
 ### 🔍 Analysis
 Organic Video showed the highest average engagement time, indicating strong content effectiveness.
 
@@ -70,9 +71,9 @@ Direct and Organic Search had lower engagement, suggesting less user interaction
 
 Focus on video content can help boost engagement across other channels.
 
-![Image](https://github.com/user-attachments/assets/2779ca8b-a00a-4b0e-97d6-8fc89433e570)
-
 ## 4) How does engagement rate vary across different traffic channels?
+
+![Image](https://github.com/user-attachments/assets/387d62d3-2fb2-4937-87c6-f0e57dcf191d)
 ### 🔍 Analysis
 Referral and Organic Search channels show the highest median engagement rate, indicating consistent user interaction.
 
@@ -83,9 +84,10 @@ Unassigned and Organic Video have low and inconsistent engagement rates.
 Email has a broad range, suggesting mixed user behavior.
 
 Focus on Referral & Organic Search for scalable, high-engagement traffic
-![Image](https://github.com/user-attachments/assets/387d62d3-2fb2-4937-87c6-f0e57dcf191d)
 
 ## 5) Which channels are driving more engaged sessions compared to non-engaged ones, and what strategies can improve engagement in underperforming channels?
+
+![Image](https://github.com/user-attachments/assets/6891bbff-464c-451b-8a8a-6ccc8def2795)
 ### ✅ Engaged vs Non-Engaged Sessions – Key Insights¶
 Organic Social has the highest engagement – strong performance.
 
@@ -96,9 +98,10 @@ Direct and Organic Search have more non-engaged users – needs improvement.
 Unassigned traffic is minimal and mostly unengaged.
 
 Organic Video shows no data – could be inactive or untracked
-![Image](https://github.com/user-attachments/assets/6891bbff-464c-451b-8a8a-6ccc8def2795)
 
 ## 6) At what hours of the day does each channel drive the most traffic?
+
+![Image](https://github.com/user-attachments/assets/b7d73b8c-367e-48a2-bbd7-34c2a65df6d3)
 ### 🕒 Traffic by Hour and Channel – Key Insights
 Peak traffic occurs between 11 AM to 6 PM across most channels.
 
@@ -112,10 +115,11 @@ Referral and Direct channels have steady traffic throughout the day, peaking sli
 
 Unassigned and Organic Video channels have minimal impact across all hours.
 
-Recommendation: Schedule key campaigns and posts between 11 AM – 4 PM for maximum visibility and engagement.
-![Image](https://github.com/user-attachments/assets/b7d73b8c-367e-48a2-bbd7-34c2a65df6d3)
+Recommendation: Schedule key campaigns and posts between 11 AM – 4 PM for maximum visibility and engagement
 
 ## 7) Is there any correlation between high traffic (sessions) and high engagement rate over time?
+
+![Image](https://github.com/user-attachments/assets/fc3db174-1e6e-4d3d-afa2-d5a189c4193d)
 ### 📈 Correlation Between Sessions & Engagement Rate – Key Insights
 Sessions (orange line) show frequent spikes, indicating high traffic variation across dates.
 
@@ -124,8 +128,6 @@ Engagement rate (red line) remains mostly flat and low throughout the observed p
 There is no strong correlation between high traffic and high engagement — even when session counts rise, engagement doesn't significantly increase.
 
 Conclusion: High traffic does not guarantee high engagement. Focus on content quality and user experience to boost engagement rate
-![Image](https://github.com/user-attachments/assets/fc3db174-1e6e-4d3d-afa2-d5a189c4193d)
-
 
 # 📋 Summary / Overall Insights
 - Organic Social is the top channel for users and engagement.
